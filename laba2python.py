@@ -1,0 +1,6 @@
+git print("What is your name?")
+input()
+print("How old are you?")
+input()
+print("Where are you live?")
+input()
